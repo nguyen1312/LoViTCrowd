@@ -7,4 +7,5 @@ This reporsitory contains the annotations for dataset and the code from the asso
 
 ## Demo:
 Our proposed LoViTCrowd can estimate precisely the number of existing people in lots of scenarios with the scene complexity and scale variation.
+
 ![gif info](images/Toy_video.gif)
